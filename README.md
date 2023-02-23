@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td>IBM<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ibm.svg" width="125" title="IBM" /><br>503 Bytes</td>
+<td>IBM<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ibm.svg" width="125" title="IBM Integration Passionate" />/td>
 </tr>
 </table>
 
