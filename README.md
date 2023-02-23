@@ -1,15 +1,19 @@
 ### Hi there 👋
 
 
-<table>
-- 🔭 I’m currently working on IBM App Connect Enterprise and Kafka integrations
 
+<td> - 🔭 I’m currently working on IBM App Connect Enterprise and Kafka integrations </td>
+<table>
 <td><img src="/images/ACE.svg" width="75" title="IBIBMACE"/></td>
 <td><img src="/images/Kafka.svg" width="75" title="Kafka"/></td>
 <td><img src="/images/mq.svg" width="75" title="IBMMQ"/></td>
-- 🌱 I’m currently learning RedHat
+</table>
+
+<td> 🤔 And trying to learn RedHat as well... </td>
+<table>
 <td><img src="/images/redhat.svg" width="75" title="RedHat"/></td>
 </table>
+
 
 
 <!--
