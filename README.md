@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-<div style="width:75px ; height:75px">
-![Employee data](/images/ACE.svg?raw=true "Employee Data title")
-<div>
+
+<table>
+- 🔭 I’m currently working on IBM App Connect Enterprise and Kafka integrations
+
+<td><img src="/images/ACE.svg" width="75" title="IBIBMACE"/></td>
+<td><img src="/images/Kafka.svg" width="75" title="Kafka"/></td>
+<td><img src="/images/mq.svg" width="75" title="IBMMQ"/></td>
+- 🌱 I’m currently learning RedHat
+<td><img src="/images/redhat.svg" width="75" title="RedHat"/></td>
+</table>
 
 
 <!--
