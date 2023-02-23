@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-<table>
-- 🔭 I’m currently working on IBM App Connect Enterprise and Kafka
-<td><img src="https://github.com/jcortess/jcortess/images/ACE.svg" width="75" title="IBIBMACE"/></td>
-<td><img src="https://github.com/jcortess/jcortess/images/Kafka.svg" width="75" title="Kafka"/></td>
-<td><img src="https://github.com/jcortess/jcortess/images/mq.svg" width="75" title="IBMMQ"/></td>
-- 🌱 I’m currently learning ...
-<td><img src="https://github.com/jcortess/jcortess/images/redhat.svg" width="75" title="RedHat"/></td>
-</table>
-
+<div style="width:75px ; height:75px">
+![Employee data](/images/ACE.svg?raw=true "Employee Data title")
+<div>
 
 
 <!--
