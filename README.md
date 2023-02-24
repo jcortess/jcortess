@@ -9,7 +9,7 @@
 <td><img src="/images/mq.svg" width="75" title="IBMMQ"/></td>
 </table>
 
-<td> 🤔 And trying to learn RedHat as well... </td>
+<td> 🤔 And on my way learning Red Hat... </td>
 <table>
 <td><img src="/images/redhat.svg" width="75" title="RedHat"/></td>
 </table>
